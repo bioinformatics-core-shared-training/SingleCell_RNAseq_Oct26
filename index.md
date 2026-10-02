@@ -9,8 +9,8 @@
 
 - Adam Reid (Gurdon Institute)
 - Chandra Chilamakuri (CRUK-CI)
-- Yunxiao Wang
-- Guest Speaker: Kasia Kania (Cosyne Therapeutics)
+- Betty Wang (Clinical Neurosciences)
+- Guest Speaker: Kasia Kania (Welcome Sanger Institute)
 
 ## Outline
 
@@ -68,14 +68,14 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 * 09:30 - 09:45 **Welcome**
 * 09:45 - 10:30 **Introduction to Single Cell Technologies** - Katarzyna Kania
     + [Slides](SingleCell_Seurat_Base/Slides/01_Introduction.html) ([pdf](SingleCell_Seurat_Base/Slides/01_Introduction.pdf))
-* 10:30 - 10:44 **Preamble**: data set and workflow - Daianna  
+* 10:30 - 10:44 **Preamble**: data set and workflow - Adam  
     + [Slides](SingleCell_Seurat_Base/Slides/02_PreambleSlides.html) ([pdf](SingleCell_Seurat_Base/Slides/02_PreambleSlides.pdf))
 * 10:45 - 11:00 - **Break**
-* 11:00 - 12:30 Library structure, **cellranger** for alignment and cell calling - Daianna   
+* 11:00 - 12:30 Library structure, **cellranger** for alignment and cell calling - Adam   
     + [Slides](SingleCell_Seurat_Base/Slides/03_CellRangerSlides.html) ([pdf](SingleCell_Seurat_Base/Slides/03_CellRangerSlides.pdf))
     + [Demonstration](SingleCell_Seurat_Base/Markdowns/03_CellRanger.html)
 * 12:30 - 13:30 **Lunch break**
-* 13:30 - 17:00 **QC and exploratory analysis** - Adam  
+* 13:30 - 17:00 **QC and exploratory analysis** - Chandra  
     + [Slides](SingleCell_Seurat_Base/Slides/04_QualityControlSlides.html) ([pdf](SingleCell_Seurat_Base/Slides/04_QualityControlSlides.pdf))
     + [Demonstration](SingleCell_Seurat_Base/Markdowns/04_Preprocessing_And_QC.html)
         
@@ -83,17 +83,17 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 ### Day 2
 
 
-* 09:30 - 09:40 **Recap** - Ash  
+* 09:30 - 09:40 **Recap** - Betty  
     + [Slides](SingleCell_Seurat_Base/Slides/00_Day1_Recap.html) ([pdf](SingleCell_Seurat_Base/Slides/00_Day1_Recap.pdf))
-* 09:40 - 12:30 **Normalisation and feature selection** - Ash  
+* 09:40 - 12:30 **Normalisation and feature selection** - Betty  
     + [Slides](SingleCell_Seurat_Base/Slides/05_NormalisationSlides.html) ([pdf](SingleCell_Seurat_Base/Slides/05_NormalisationSlides.pdf))
     + [Demonstration](SingleCell_Seurat_Base/Markdowns/05_NormalisationAndFeatureSelection.html)    
 * 12:30 - 13:30 **lunch break**
-* 13:30 - 15:25 **Dimensionality reduction** - Adam  
+* 13:30 - 15:25 **Dimensionality reduction** - Chandra  
     + [Slides](SingleCell_Seurat_Base/Slides/06_DimensionalityReduction_slides.html) ([pdf](SingleCell_Seurat_Base/Slides/06_DimensionalityReduction_slides.pdf))
     + [Demonstration](SingleCell_Seurat_Base/Markdowns/06_DimensionalityReduction.html)
 * 15:25 - 15:35 10 min **break**
-* 15:35 - 17:30 **Batch correction and data set integration** - Daianna   
+* 15:35 - 17:30 **Batch correction and data set integration** - Adam   
     + [Slides](SingleCell_Seurat_Base/Slides/07_DatasetIntegrationSlides.html) ([pdf](SingleCell_Seurat_Base/Slides/07_DatasetIntegrationSlides.pdf))
     + [Demonstration](SingleCell_Seurat_Base/Markdowns/07_Dataset_Integration.html)
    
@@ -105,14 +105,14 @@ of gene expression data, such as TSNE, UMAP and violin plots.
     + [Slides](SingleCell_Seurat_Base/Slides/08_Clustering_Slides.html) ([pdf](SingleCell_Seurat_Base/Slides/08_Clustering_Slides.pdf))
     + [Demonstration](SingleCell_Seurat_Base/Markdowns/08_Clustering.html)
 * 11:05 - 11:15 10 min **break**
-* 11:15 - 12:30 **Identification of cluster marker genes** - Adam
+* 11:15 - 12:30 **Identification of cluster marker genes** - Betty
     + [Slides](SingleCell_Seurat_Base/Slides/09_ClusterMarkerGenes.html) ([pdf](SingleCell_Seurat_Base/Slides/09_ClusterMarkerGenes.pdf))
     + [Demonstration](SingleCell_Seurat_Base/Markdowns/09_Cluster_Marker_Genes.html)
 * 12:30 - 13:30 **lunch break**
-* 13:30 - 16.00 **Differential Expression Analysis** - Daianna
+* 13:30 - 16.00 **Differential Expression Analysis** - Chandra
 	+ [Slides](SingleCell_Seurat_Base/Slides/10_Differential_Expression_Slides.html) ([pdf](SingleCell_Seurat_Base/Slides/10_Differential_Expression_Slides.pdf))
 	+ [Demonstration](SingleCell_Seurat_Base/Markdowns/10_Differential_Expression.html)
-* 16.00 - 17.30 **Differential Abundance Analysis** - Ash
+* 16.00 - 17.30 **Differential Abundance Analysis** - Chandra
 	+ [Slides](SingleCell_Seurat_Base/Slides/11_Differential_Abundance_Slides.html) ([pdf](SingleCell_Seurat_Base/Slides/11_Differential_Abundance_Slides.pdf))
 	+ [Conversion to SingleCellExperiment](SingleCell_Seurat_Base/Markdowns/10a_ConversionToSCE.html)
 	+ [Milo Demonstration](SingleCell_Seurat_Base/Markdowns/11_Differential_Abundance.html)
